@@ -1,6 +1,6 @@
 # Hi,
 
--  🦦 I’m **@feketea17** / **Vidra**
+-  🦦 I’m **Vidra**
 - 🦖 I’m interested in **coding**. Mostly C#, Java, and Python.
 - 🌱 I’m currently learning **programming** / **visual programming**.
 - 💕 I’m looking to collaborate on **university projects**.

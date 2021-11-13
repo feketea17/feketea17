@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @feketea17
-- 👀 I’m interested in ... coding.
-- 🌱 I’m currently learning ... programming / visual programming.
-- 💞️ I’m looking to collaborate on ... uni projects.
-- 📫 How to reach me ...
+# Hi,
+
+-  🦦 I’m **@feketea17** / **Vidra**
+- 🦖 I’m interested in **coding**. Mostly C#, Java, and Python.
+- 🌱 I’m currently learning **programming** / **visual programming**.
+- 💕 I’m looking to collaborate on **university projects**.
+- 📧 How to reach me? Feel free to @ tag!
 
 <!---
 feketea17/feketea17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 # Hi,
 
 - 🦦 I’m **Vidra**
-- 🎮 I’m interested in **coding**. Mostly C# and Unity.
-- 🦖 I’m currently studying **programming** / **visual programming**.
+- 🎮 I’m interested in **coding**. Mostly Java, C# and Unity.
+- 🦖 I’m currently studying **Computer Science Engineering**.
 - 💕 I’m looking to collaborate on **university projects**.
 - 📧 How to reach me? Feel free to @ tag!
 
